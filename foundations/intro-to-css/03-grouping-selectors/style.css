@@ -1,0 +1,13 @@
+.ui{
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.blackAndWhite {
+    background-color: black;
+    color: white;
+}
+
+.yellow {
+    background-color: yellow;
+}
